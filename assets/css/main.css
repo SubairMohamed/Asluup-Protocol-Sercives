@@ -193,6 +193,11 @@ input, select, textarea {
 			text-align: justify;
 		}
 
+		span.title-content {
+			font-size: 1.3rem;
+			color: #DD7480;
+		}
+
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.5;
@@ -3333,7 +3338,6 @@ input, select, textarea {
 		}
 
 /* Main */
-
 	#main {
 		background-color: #ffffff;
 		color: #07224D;
@@ -3680,7 +3684,8 @@ input, select, textarea {
 
 		}
 
-/* Footer */
+
+		/* Footer */
 
 	#footer {
 		display: -moz-flex;
